@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xiaoyYu00
-- 👀 I’m interested in python
+- 👀 I’m interested in python， license plate recognition
 - 🌱 I’m currently learning yolox
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cyxyue@163.com
